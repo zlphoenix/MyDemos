@@ -1,0 +1,8 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\TelChina.TRF.TestBase.PerformanceCounter.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\TelChina.TRF.TestBase.PerformanceCounter.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.TestBase.PerformanceCounter.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.TestBase.PerformanceCounter.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\TelChina.TRF.TestBase.PerformanceCounter.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.TestBase.PerformanceCounter\obj\Debug\TelChina.TRF.TestBase.PerformanceCounter.pdb

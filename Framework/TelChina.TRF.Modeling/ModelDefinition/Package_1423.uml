@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="db60f9db-64b1-462e-bdab-afa08e2d6529"
+  name="CoreLib"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="381a133d-0887-475a-87d7-9b7e5d1210dd"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina.TRF.Persistant.CoreLib"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="a1d12372-b197-44f5-99a8-edfc64cc56fe"
+        LastKnownName="Entity"
+        LastKnownLocation="Package2_1423.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="5de991c2-823d-48a1-a2b2-17e5664fac1c"
+        LastKnownName="Repository"
+        LastKnownLocation="Package_1425.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

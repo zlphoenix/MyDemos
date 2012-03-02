@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="424f65cb-e21a-48cf-beef-2198d215abd7"
+  name="Logging"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="187b8c98-fd8e-41ad-9673-14e501155f54"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina.TRF.Util.Logging"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <Interface
+        Id="23ab3afe-71b1-4122-9d5e-3ddb8060d263"
+        name="ILogger"
+        isAbstract="false"
+        isLeaf="false">
+        <referencesInternal>
+          <reference
+            Id="e8b6233b-c854-48fc-bd3f-8bfdaf317d36"
+            handle="viewcode://./CodeSchema_Interface?Assembly=file:///D:/Persional/Dropbox/Code/Product/ApplicationServer/Bin/TelChina.TRF.Util.Logging.dll Namespace=TelChina.TRF.Util.Logging Type=ILogger"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="0c6b9adf-024c-40b9-ac0c-6354e0133ce3"
+            name="interface"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="c8914747-493d-4ddb-b5e2-eec369aab196">
+                <propertyInstance
+                  Id="f7c0fbff-3361-494f-b7fc-934962024080"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6a6a7172-ff7b-42e8-9c75-9d9f2f634228">
+                <propertyInstance
+                  Id="dfec74ff-936a-4215-8155-25c9226eda6f"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="42050cdc-a60f-410f-8511-4205e7078e3d">
+                <propertyInstance
+                  Id="31db24bf-d33a-41c7-90f2-9cbb94f32131"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="32df5d8b-4cb7-441c-8d60-77dd51428293">
+                <propertyInstance
+                  Id="3f38c573-ad94-42f8-bead-57a3e4a79d19"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </Interface>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

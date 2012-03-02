@@ -1,0 +1,6 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\UnitTests\TelChina.TRF.Util.UtilTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Util.UtilTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Util.UtilTest.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\UnitTests\TelChina.TRF.Util.UtilTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\UnitTests\TelChina.TRF.Util.UtilTest\obj\Debug\TelChina.TRF.Util.UtilTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\UnitTests\TelChina.TRF.Util.UtilTest\obj\Debug\TelChina.TRF.Util.UtilTest.pdb

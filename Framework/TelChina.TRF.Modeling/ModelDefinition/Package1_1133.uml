@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="93490cd0-7ea0-4c0e-8e70-442b947247c2"
+  name="DemoSV"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="cc77bc85-1fa3-425d-bc93-69b1bc69265d"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina.TRF.Demo.DemoSV"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="968c93f0-a796-4ec4-b551-84a7f2e5ff80"
+        name="ResultDTO"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="1e7ec411-0ddb-4e46-bbb2-3ec60071d443"
+            handle="viewcode://./CodeSchema_Class?Assembly=file:///D:/Persional/Dropbox/Code/Product/ApplicationServer/Labs/TelChina.TRF.Demo.DemoSV.Deploy.dll Namespace=TelChina.TRF.Demo.DemoSV Type=ResultDTO"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="eea34984-0c58-47f8-9288-8814b125c354"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f57a2beb-9956-4d55-ad86-2bcfbdd6e0e9">
+                <propertyInstance
+                  Id="2ebc5843-389c-4a62-924d-ed55ff305266"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="b9a1e316-7ea3-4c0b-9201-217842206f87">
+                <propertyInstance
+                  Id="ebf34d2b-ba1f-48b7-9e53-27aa051a73cc"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f4853b09-bc63-4c0e-bdb3-9f9602c337ab">
+                <propertyInstance
+                  Id="ea455311-1164-4285-845e-9447350a5c4d"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="273885af-9c56-422c-bbd2-7ac2847c57b4">
+                <propertyInstance
+                  Id="b2e741f9-d6fe-4535-b7be-651397684d8c"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="63b600ed-bf35-422f-b1b0-2ecac11589cf">
+                <propertyInstance
+                  Id="8556def0-cf0e-4485-9c5d-c8c86cb764bf"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="bb67f3e7-6686-48b2-a6af-2fd406c9c3e4"
+        name="ParamDTO"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="3f3af859-a045-4294-992c-df27b7e3326d"
+            handle="viewcode://./CodeSchema_Class?Assembly=file:///D:/Persional/Dropbox/Code/Product/ApplicationServer/Labs/TelChina.TRF.Demo.DemoSV.Deploy.dll Namespace=TelChina.TRF.Demo.DemoSV Type=ParamDTO"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="89f08fa9-4ca8-4d4f-a115-165cd8700f8d"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="1c076512-5af8-4668-9ead-43ba0cd48c97">
+                <propertyInstance
+                  Id="502b1a1d-2953-40d6-b84d-aaffc3a70b23"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="9aa7969a-e9f7-4009-88a7-a44da4ca46f7">
+                <propertyInstance
+                  Id="a3c0269a-0d2c-40d7-ad7d-499825ad3e8f"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="b4494bac-05de-4c65-9fd0-ded8fe47dfd8">
+                <propertyInstance
+                  Id="88a73014-1652-4c20-96d4-9b51f4241d70"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="eba9d57e-4282-48b1-a3a2-6124c8bc1353">
+                <propertyInstance
+                  Id="4124c455-97ed-48e1-af67-8e9301ae6397"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="25ce26c9-ba88-4630-9529-18598fe5c787">
+                <propertyInstance
+                  Id="392a1a98-b637-43fc-8d27-1f737056768b"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="06037d6c-8f1f-41b9-a43e-0ae01735cb62"
+        name="IDemoSV"
+        isAbstract="false"
+        isLeaf="false">
+        <referencesInternal>
+          <reference
+            Id="4fd888ec-e9f3-49d0-b82c-a84b253bf4ed"
+            handle="viewcode://./CodeSchema_Interface?Assembly=file:///D:/Persional/Dropbox/Code/Product/ApplicationServer/Labs/TelChina.TRF.Demo.DemoSV.Deploy.dll Namespace=TelChina.TRF.Demo.DemoSV Type=IDemoSV"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="6c9a7cea-c8e9-4416-9fbe-bfc414f72d0c"
+            name="interface"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="36778b9e-096a-42b7-b21c-f51f01e4bd55">
+                <propertyInstance
+                  Id="ac39d4df-9750-4d38-895b-12b3c369258a"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0fe2433e-6d66-4a33-a790-a624dd634a56">
+                <propertyInstance
+                  Id="5c5ff473-98ed-4b52-963f-abe60de1055e"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="34b596da-604a-45f3-910c-5914b7e925c7">
+                <propertyInstance
+                  Id="fe424dbe-9198-4fd3-ba0e-6b14456c656e"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="c0c82581-593d-409c-9c56-bd615f29248e">
+                <propertyInstance
+                  Id="5004d62f-f506-4444-881e-17adcc4eb121"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </Interface>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

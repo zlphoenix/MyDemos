@@ -1,0 +1,6 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Util.Logging\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Util.Logging.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Util.Logging.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Util.Logging\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Util.Logging\obj\Debug\TelChina.TRF.Util.Logging.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Util.Logging\obj\Debug\TelChina.TRF.Util.Logging.pdb

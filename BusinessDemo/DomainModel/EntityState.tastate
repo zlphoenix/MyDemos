@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stateGraph xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" name="" xmlns="http://www.tangiblearchitect.com/dsltools/State">
+  <flowElements>
+    <startPoint name="Start">
+      <flowTo>
+        <flow guard="find from repository" eventAndGuardLabel="find from repository/" effectLabel="" eventGuardEffectLabel="find from repository/">
+          <stateMoniker name="//Unchanged" />
+        </flow>
+        <flow guard="new" eventAndGuardLabel="new/" effectLabel="" eventGuardEffectLabel="new/">
+          <stateMoniker name="//Added" />
+        </flow>
+      </flowTo>
+    </startPoint>
+    <state name="Added" entryActionLabel="entry/" exitActionLabel="exit/">
+      <flowTo>
+        <flow guard="on Detached" eventAndGuardLabel="on Detached/" effectLabel="" eventGuardEffectLabel="on Detached/">
+          <stateMoniker name="//Detached" />
+        </flow>
+        <flow guard="on Save Changes" eventAndGuardLabel="on Save Changes/" effectLabel="" eventGuardEffectLabel="on Save Changes/">
+          <stateMoniker name="//Unchanged" />
+        </flow>
+      </flowTo>
+    </state>
+    <state name="Deleted" entryActionLabel="entry/" exitActionLabel="exit/">
+      <flowTo>
+        <flow guard="on Detached" eventAndGuardLabel="on Detached/" effectLabel="" eventGuardEffectLabel="on Detached/">
+          <stateMoniker name="//Detached" />
+        </flow>
+        <flow guard="on Save Changes" eventAndGuardLabel="on Save Changes/" effectLabel="" eventGuardEffectLabel="on Save Changes/">
+          <stateMoniker name="//Unchanged" />
+        </flow>
+      </flowTo>
+    </state>
+    <state name="Unchanged" entryActionLabel="entry/" exitActionLabel="exit/">
+      <flowTo>
+        <flow guard="on  property changed" eventAndGuardLabel="on  property changed/" effectLabel="" eventGuardEffectLabel="on  property changed/">
+          <stateMoniker name="//Modified" />
+        </flow>
+        <flow guard="on deleted" eventAndGuardLabel="on deleted/" effectLabel="" eventGuardEffectLabel="on deleted/">
+          <stateMoniker name="//Deleted" />
+        </flow>
+        <flow guard="on Detached" eventAndGuardLabel="on Detached/" effectLabel="" eventGuardEffectLabel="on Detached/">
+          <stateMoniker name="//Detached" />
+        </flow>
+      </flowTo>
+    </state>
+    <state name="Modified" entryActionLabel="entry/" exitActionLabel="exit/">
+      <flowTo>
+        <flow guard="on Detached" eventAndGuardLabel="on Detached/" effectLabel="" eventGuardEffectLabel="on Detached/">
+          <stateMoniker name="//Detached" />
+        </flow>
+        <flow guard="on Save Changes" eventAndGuardLabel="on Save Changes/" effectLabel="" eventGuardEffectLabel="on Save Changes/">
+          <stateMoniker name="//Unchanged" />
+        </flow>
+      </flowTo>
+    </state>
+    <state name="Detached" entryActionLabel="entry/" exitActionLabel="exit/" />
+  </flowElements>
+</stateGraph>

@@ -1,0 +1,198 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DC5BC446-5BE7-4095-B210-C92D046B4053/d:Entity/f:IPersistableObject.cs" caret="164" fromTop="6" />
+      <File id="DC5BC446-5BE7-4095-B210-C92D046B4053/d:Entity/f:EntityBase.cs" caret="1041" fromTop="14" />
+      <File id="733A32CF-F8F7-47D5-A850-8E95BAE441EA/f:AddinHost.cs" caret="0" fromTop="0" />
+      <File id="9DFB1C67-F3E4-41C7-8184-CEE451DEA138/f:RelationShipTest.cs" caret="0" fromTop="0" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceBase.cs" caret="0" fromTop="0" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Exception/f:ServiceExceptionBase.cs" caret="1564" fromTop="15" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ExceptionSerializeUnitTest.cs" caret="0" fromTop="0" />
+      <File id="733A32CF-F8F7-47D5-A850-8E95BAE441EA/f:app.config" caret="0" fromTop="0" />
+      <File id="9DFB1C67-F3E4-41C7-8184-CEE451DEA138/f:EntityCRUDTest.cs" caret="1673" fromTop="15" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="2057" fromTop="24" />
+      <File id="49D77B4C-879A-45DC-8A4E-550EA1B9B15D/f:Microsoft.Practices.EnterpriseLibrary.Common.xml/s:..?TP?Microsoft.Practices.EnterpriseLibrary.Common.xml" caret="0" fromTop="0" />
+      <File id="49D77B4C-879A-45DC-8A4E-550EA1B9B15D/f:Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml/s:..?TP?Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml" caret="0" fromTop="0" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:Program.cs" caret="556" fromTop="19" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ProxyBase.cs" caret="1037" fromTop="18" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContextManager.cs" caret="2307" fromTop="12" />
+      <File id="733A32CF-F8F7-47D5-A850-8E95BAE441EA/f:AppHost.cs" caret="4582" fromTop="122" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ServiceImpUnitTest.cs" caret="2145" fromTop="15" />
+      <File id="B1DF65BA-0A93-4E41-9C67-A8EF8D0F1A51/f:InstanceProvider.cs" caret="1255" fromTop="10" />
+      <File id="6393632C-2698-48E3-B828-99930743713D/f:DemoSV.g.cs" caret="645" fromTop="6" />
+      <File id="9DE6CCDC-1343-46CE-A22F-1FAA626017A8/d:Interfaces/f:IDemoSV.cs" caret="467" fromTop="9" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="1374" fromTop="0" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:app.config/l:..?TelChina.TRF.Service.AppHosting?app.config" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="3057" fromTop="15" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="3043" fromTop="19" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="2014" fromTop="21" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="570" fromTop="8" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="279" fromTop="2" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="633" fromTop="12" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ServiceImpUnitTest.cs" caret="2051" fromTop="13" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ServiceImpUnitTest.cs" caret="1762" fromTop="12" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ServiceImpUnitTest.cs" caret="533" fromTop="5" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:Program.cs" caret="349" fromTop="10" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:Program.cs" caret="608" fromTop="18" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:Program.cs" caret="452" fromTop="11" />
+      <File id="733A32CF-F8F7-47D5-A850-8E95BAE441EA/f:AppHost.cs" caret="3750" fromTop="7" />
+      <File id="733A32CF-F8F7-47D5-A850-8E95BAE441EA/f:AppHost.cs" caret="3612" fromTop="5" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="2953" fromTop="7" />
+      <File id="72B7F5B6-7960-46CC-B55E-E7B28CC728F2/d:Service/f:ServiceContext.cs" caret="2680" fromTop="2" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="1550" fromTop="11" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="1271" fromTop="7" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="1444" fromTop="11" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:app.config/l:..?TelChina.TRF.Service.AppHosting?app.config" caret="42" fromTop="2" />
+      <File id="959AAE2E-E046-409E-9741-58311A442A60/f:app.config/l:..?TelChina.TRF.Service.AppHosting?app.config" caret="1495" fromTop="20" />
+      <File id="18E95E9A-848C-4E43-9AA8-5F7E8CE0061A/f:ServiceImpUnitTest.cs" caret="2095" fromTop="14" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="361" fromTop="8" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="251" fromTop="4" />
+      <File id="9DE6CCDC-1343-46CE-A22F-1FAA626017A8/d:Interfaces/f:IDemoSV.cs" caret="467" fromTop="9" />
+      <File id="B89332E1-99BC-46D8-9275-08F938EE73DC/f:DemoSVAgent.cs" caret="467" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="222" />
+      <Item value="ProfileContext`0" priority="95" />
+      <Item value="readonly" priority="31" />
+      <Item value="T`0" priority="127" />
+      <Item value="internal" priority="63" />
+      <Item value="static" priority="127" />
+      <Item value="string" priority="255" />
+      <Item value="ServiceContextManager" priority="223" />
+      <Item value="typeof" priority="127" />
+      <Item value="TypeName" priority="127" />
+      <Item value="var" priority="127" />
+      <Item value="TypeNamespace" priority="31" />
+      <Item value="t" priority="31" />
+      <Item value="return" priority="255" />
+      <Item value="type" priority="31" />
+      <Item value="SerializableAttribute`0" priority="31" />
+      <Item value="Count`1" priority="26" />
+      <Item value="false" priority="31" />
+      <Item value="DataMember" priority="31" />
+      <Item value="#region" priority="31" />
+      <Item value="#endregion" priority="31" />
+      <Item value="this" priority="159" />
+      <Item value="value" priority="63" />
+      <Item value="default" priority="31" />
+      <Item value="null" priority="255" />
+      <Item value="Debug`0" priority="31" />
+      <Item value="OperationContext`0" priority="31" />
+      <Item value="if" priority="159" />
+      <Item value="throw" priority="31" />
+      <Item value="new" priority="193" />
+      <Item value="Exception" priority="29" />
+      <Item value="override" priority="63" />
+      <Item value="Value" priority="31" />
+      <Item value="Current" priority="31" />
+      <Item value="using" priority="31" />
+      <Item value="else" priority="191" />
+      <Item value="result" priority="95" />
+      <Item value="true" priority="31" />
+      <Item value="contextManager" priority="31" />
+      <Item value="context" priority="63" />
+      <Item value="StringBuilder`0" priority="63" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="UserID" priority="31" />
+      <Item value="LoginDate" priority="31" />
+      <Item value="Token" priority="31" />
+      <Item value="Content" priority="96" />
+      <Item value="item" priority="63" />
+      <Item value="KeyValuePair" priority="62" />
+      <Item value="Guid`0" priority="32" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="28" />
+      <Item value="Keys" priority="63" />
+      <Item value="baseDirectory" priority="31" />
+      <Item value="Directory`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Assert`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="IsSerializable" priority="26" />
+      <Item value="Name" priority="53" />
+      <Item value="Namespace" priority="53" />
+      <Item value="GetCustomAttributes`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TelChina.TRF.System.Service.ServiceContextManager`1">
+      <Item value="Value" priority="134" />
+      <Item value="Current" priority="26" />
+      <Item value="ToString`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.OperationContext">
+      <Item value="IncomingMessageHeaders" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Channels.MessageHeaders">
+      <Item value="GetHeader`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.OperationContext">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TelChina.TRF.System.Service.ServiceContextManager`1">
+      <Item value="Current" priority="53" />
+      <Item value="SESSIONCOTEXTKEY" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.Remoting.Messaging.CallContext">
+      <Item value="SetData`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Select`2" priority="54" />
+      <Item value="Single`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="26" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="26" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToByteArray`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TelChina.TRF.System.Service.ServiceContext">
+      <Item value="Content" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TelChina.TRF.Service.AppHosting.AppHost">
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

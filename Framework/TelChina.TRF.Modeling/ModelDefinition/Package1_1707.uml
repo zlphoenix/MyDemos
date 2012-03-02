@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="226ff631-0562-443d-98b2-77cd104e8dfc"
+  name="TRF"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="63660bab-b52f-42b6-8e25-8d44ea64baaf"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina.TRF"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="a7469c4b-2309-4f9b-9919-c5b4ab3c7432"
+        LastKnownName="System"
+        LastKnownLocation="Package2_1707.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="f3dc23f5-b338-4ef2-8ea2-af1c47148966"
+        LastKnownName="Util"
+        LastKnownLocation="Package_1130.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="37a670bb-99e1-410e-b718-01363175db98"
+        LastKnownName="Demo"
+        LastKnownLocation="Package_1133.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="8e75ec42-ebeb-4015-86a3-22007a14e23c"
+        LastKnownName="Domain"
+        LastKnownLocation="Package_0955.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="798633f1-7e0d-453c-aa60-6934d548408b"
+        LastKnownName="Service"
+        LastKnownLocation="Package_1148.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="fe0ff869-30db-4aed-9fad-d176545b4f02"
+        LastKnownName="Persistant"
+        LastKnownLocation="Package1_1423.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="cfe8e061-2fa2-4c5c-b0d8-d68fab6a4f47"
+        LastKnownName="Base"
+        LastKnownLocation="Package2_1420.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

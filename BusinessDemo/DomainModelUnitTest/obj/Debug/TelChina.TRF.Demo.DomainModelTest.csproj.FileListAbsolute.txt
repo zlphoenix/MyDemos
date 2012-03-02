@@ -1,0 +1,7 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\BusinessDemo\DomainModelUnitTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Demo.DomainModelTest.dll.config
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Demo.DomainModelTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Demo.DomainModelTest.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\DomainModelUnitTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\DomainModelUnitTest\obj\Debug\TelChina.TRF.Demo.DomainModelTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\DomainModelUnitTest\obj\Debug\TelChina.TRF.Demo.DomainModelTest.pdb

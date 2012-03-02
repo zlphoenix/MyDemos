@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="8f9b7aab-38aa-4c1c-967c-4f1d04ccc5bf" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="0253d706-30bd-4929-877f-79f1bc346042" name="日记管理系统">
+      <childLayers>
+        <layer Id="e575707b-1174-46dd-8013-6ee8c9a22854" name="档案">
+          <childLayers>
+            <layer Id="41b69553-8ad5-4ee3-8a62-6bc56aa07c59" name="用户" />
+            <layer Id="451464b2-a5c8-4152-b870-f9b3fe709920" name="部门" />
+            <layer Id="fb4d9d04-e925-4186-89ee-1dad85d39336" name="项目" />
+            <layer Id="4bdce212-6871-4e0a-9c31-4e68d71b40d2" name="数据字典">
+              <childLayers>
+                <layer Id="52e25ccb-cda9-438a-9ec5-8a51e831a1e4" name="项目状态" />
+                <layer Id="08e17421-4cf1-47b3-ba8b-51d5c21531d7" name="活动类别" />
+              </childLayers>
+            </layer>
+            <layer Id="34c0e63d-780b-4131-8454-b1acab01a5bf" name="调度和检查" />
+            <layer Id="0213a672-b01c-4f3c-985a-b6cedd7ade40" name="角色" />
+          </childLayers>
+        </layer>
+        <layer Id="35c51c58-a881-402b-bea7-1db269488b5f" name="个人日记">
+          <childLayers>
+            <layer Id="10d450d8-2844-4c18-84fd-59f6b66fd899" name="设置">
+              <childLayers>
+                <layer Id="8c3e76d5-2f38-4eb2-a301-2407cf87d236" name="分享设置" />
+                <layer Id="b15e39e1-effe-4fad-bb81-b11ddbd1ca1f" name="项目设置" />
+                <layer Id="54ade7e3-653a-4b39-b9f2-d039a2ba07b8" name="关注设置" />
+                <layer Id="532e6338-f522-4965-98b9-4690c13da6ff" name="个人标签管理" />
+              </childLayers>
+            </layer>
+            <layer Id="d4a15179-02ef-407d-b52a-d15d46abf573" name="日记填写" />
+            <layer Id="9d43a615-20f2-4b92-8e51-994a72dd563b" name="个人日记查询" />
+            <layer Id="804884da-dd47-4353-bab6-842c9005aa9d" name="未完成日记提醒" />
+            <layer Id="8373968e-8e28-4b8f-aea0-7160c06d2040" name="日记评价" />
+          </childLayers>
+        </layer>
+        <layer Id="720256d8-e46c-49bd-acce-aa84a3f4e99f" name="统计查询">
+          <childLayers>
+            <layer Id="2ecd307d-adad-4312-a30f-cad382862b18" name="项目综合统计">
+              <childLayers>
+                <layer Id="bf43d25f-ad19-41ce-8cfc-ffd7c089ac56" name="项目工作量投入" />
+                <layer Id="6bd9e0a4-3e28-40ab-bde5-3f62f61cbba5" name="活动分类工作量投入" />
+                <layer Id="52a9bb2e-de0b-425b-96d6-1ee1aa4ad454" name="活动分类工作量投入比例" />
+              </childLayers>
+            </layer>
+            <layer Id="9557ef5c-c2d5-4cc7-b272-ba386669ba5f" name="组织结构" />
+          </childLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="95a16613-0337-4806-8c51-1f90f6ef0350" name="个人综合统计">
+      <childLayers>
+        <layer Id="285d1e70-8122-4f93-9558-a24746aeed35" name="参与项目工作量统计" />
+        <layer Id="825b68b7-23a4-4764-b556-6601e7a469d7" name="活动分类工作量投入" />
+      </childLayers>
+    </layer>
+  </layers>
+</layerModel>

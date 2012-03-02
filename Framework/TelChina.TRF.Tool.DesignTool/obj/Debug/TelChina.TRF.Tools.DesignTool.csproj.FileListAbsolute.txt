@@ -1,0 +1,11 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\DesignTools.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\DesignTools.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\extension.vsixmanifest
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Tool\DesignTool\TRF.Service.Profile
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Tool\DesignTool\DesignTools.vsix
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Tool\DesignTool\extension.vsixmanifest
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\DesignTools.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\DesignTools.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Tool.DesignTool\obj\Debug\extension.vsixmanifest

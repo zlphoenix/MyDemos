@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="36d9693b-bd14-4728-ab09-39311015aec6" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="9916acc4-3526-40af-891a-976cf0c6406e" name="&#xD;&#xA;">
+      <childLayers>
+        <layer Id="4a148ed0-e725-4008-88bb-301b2f83203c" name="工程师">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="914b8055-74eb-431b-bfe6-9f6269b532fb" direction="Forward">
+              <layerMoniker Id="80768d0e-bea6-4462-815b-84d1c53f392f" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+        <layer Id="80768d0e-bea6-4462-815b-84d1c53f392f" name="高级工程师">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="2420ad21-9994-478f-8c5b-a4c0240aef43" direction="Forward">
+              <layerMoniker Id="3192ac67-9ca7-43fe-8f2d-bc55b619b4d2" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="3f5e1103-8a50-476c-acff-61e67c4c1537" direction="Forward">
+              <layerMoniker Id="cfe37c57-fdd7-49da-a5c2-912ab2022cdb" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="3204a2f3-567e-4046-aa85-ccff2bd48c67" direction="Forward">
+              <layerMoniker Id="163151dd-0253-4b9f-ba8f-920e746be9f9" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+        <layer Id="7b1567c5-cb59-4f65-b5bd-df962efe8872" name="助理工程师">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="cda50dab-7b56-492e-8738-c8646961cf19" direction="Forward">
+              <layerMoniker Id="4a148ed0-e725-4008-88bb-301b2f83203c" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="b221de9c-f2c7-4006-8035-679f8e910266" name="管理序列">
+      <childLayers>
+        <layer Id="43555385-7a3e-4f4d-b34f-cf7d0f19830f" name="高级经理" />
+        <layer Id="163151dd-0253-4b9f-ba8f-920e746be9f9" name="经理">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="c659ad2c-44d7-4c23-b868-8467f33308eb" direction="Forward">
+              <layerMoniker Id="43555385-7a3e-4f4d-b34f-cf7d0f19830f" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="ebdda321-3705-4f64-92ff-b905147943e4" name="技术序列">
+      <childLayers>
+        <layer Id="070df5ba-6f47-4431-9401-7d60ac463795" name="资深专家" />
+        <layer Id="3192ac67-9ca7-43fe-8f2d-bc55b619b4d2" name="技术专家">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="6bfd2bfc-9c09-457a-a740-eb2cb99e51db" direction="Forward">
+              <layerMoniker Id="070df5ba-6f47-4431-9401-7d60ac463795" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="7db6e5ba-2031-44c5-b7f3-e1be2d905e3d" name="产品序列">
+      <childLayers>
+        <layer Id="1592e5fc-ef0e-42e4-9c18-6401ec061bde" name="产品负责人" />
+        <layer Id="cfe37c57-fdd7-49da-a5c2-912ab2022cdb" name="领域专家">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="e432163f-6f20-448b-b51a-5e08345b525e" direction="Forward">
+              <layerMoniker Id="1592e5fc-ef0e-42e4-9c18-6401ec061bde" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="04c8ee99-23ea-4067-9a94-739e3411c8b6" />
+    <layer Id="304b18fa-63c9-491b-8b12-589a587cc7c7" name="1">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="cfbf480f-345d-4800-a8f4-4739a42da9db" direction="Forward">
+          <layerMoniker Id="04c8ee99-23ea-4067-9a94-739e3411c8b6" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="4b90cd5a-4cb1-456c-95cb-d16c2ac1bdc6" name=" 2">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="75461db5-3b67-4bc3-84a1-ab3fe1745bd3" direction="Forward">
+          <layerMoniker Id="04c8ee99-23ea-4067-9a94-739e3411c8b6" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="56a84f02-b7c8-4bf5-85d6-fa8c24ba3758" name="3">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="fde8d4f8-cc61-440f-b10c-636276cdcbd6" direction="Forward">
+          <layerMoniker Id="04c8ee99-23ea-4067-9a94-739e3411c8b6" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+  </layers>
+</layerModel>

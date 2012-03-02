@@ -1,0 +1,6 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\BusinessDemo\Implement\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\Implement\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Labs\TelChina.TRF.Demo.DemoSV.Impl.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Labs\TelChina.TRF.Demo.DemoSV.Impl.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\Implement\obj\Debug\TelChina.TRF.Demo.DemoSV.Impl.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\Implement\obj\Debug\TelChina.TRF.Demo.DemoSV.Impl.pdb

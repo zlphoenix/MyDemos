@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Program Files (x86)/Microsoft Visual Studio 10.0/Common7/IDE/Extensions/Microsoft/Visualization and Modeling Feature Pack/2.0/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log">
+  <Message Timestamp="2012-02-28T20:53:50" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '51698abe-3d4c-4653-b3a2-fa820262942e' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '77bd646c-15c3-4957-8c41-f8455ac2b869' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Collections' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Collections::Generic::Dictionary&lt;String,String&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::DateTime' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Runtime' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Runtime::Serialization' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Runtime::Serialization::ISerializable' -  (Interface)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Runtime::Serialization::SerializationInfo' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::System::Runtime::Serialization::StreamingContext' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service' -  (Package)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Medium" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext' -  (Class)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::Content' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ISerializable.GetObjectData' -  (Operation)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ISerializable.GetObjectData::context' -  (Parameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ISerializable.GetObjectData::info' -  (Parameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::LoginDate' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::LoginIP' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ServiceContext' -  (Operation)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ServiceContext::context' -  (Parameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::ServiceContext::info' -  (Parameter)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::Token' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::UserCode' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::UserID' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Modeling::TelChina::TRF::System::Service::ServiceContext::UserName' -  (Property)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Modeling::TelChina::TRF::System::Service::ServiceContext to Modeling::System::Collections::Generic::Dictionary&lt;String,String&gt; (Association)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Modeling::TelChina::TRF::System::Service::ServiceContext to Modeling::System::DateTime (Association)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Modeling::TelChina::TRF::System::Service::ServiceContext to Modeling::System::Runtime::Serialization::ISerializable (InterfaceRealization)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Modeling::System::Collections::Generic::Dictionary&lt;String,String&gt; to Modeling::System::Runtime::Serialization::ISerializable (InterfaceRealization)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Modeling::System::Collections::Generic::Dictionary to Modeling::System::Runtime::Serialization::ISerializable (InterfaceRealization)" />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="High" Text="(6) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2012-02-28T20:53:51" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

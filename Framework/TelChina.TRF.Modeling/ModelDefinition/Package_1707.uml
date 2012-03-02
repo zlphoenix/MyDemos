@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="a6431024-2a7d-4936-a1d8-57dce0f9f733"
+  name="TelChina"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="f019a53f-a908-42dd-901b-b7bf2b5785c4"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina"
+      tag="ViewCode" />
+  </referencesInternal>
+  <appliedStereotypesInternal>
+    <stereotypeInstance
+      Id="a2d22fcd-71a4-4908-97b0-2c3ba26423ab"
+      name="framework"
+      profile="StandardProfileL2" />
+    <stereotypeInstance
+      Id="f525425a-4342-4686-9faa-9e2efc8cf595"
+      name="modelLibrary"
+      profile="StandardProfileL2" />
+    <stereotypeInstance
+      Id="a9c6b1c4-825d-4b86-8135-f7db8ede5d77"
+      name="namespace"
+      profile="CSharpProfile">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="33556172-8f80-48ec-9433-24d0dd924e4b">
+          <propertyInstance
+            Id="9b6f9b39-33d4-48e7-a5b9-0875952d2119"
+            name="BaseName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b9b310d2-312b-4776-ae45-9cda86dce6e0">
+          <propertyInstance
+            Id="c6421af6-10f8-41f3-b0fc-782fbe859a9e"
+            name="ClrAttributes" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="753ac69f-7896-4589-871c-1a28c350281e">
+          <propertyInstance
+            Id="301f8ba2-2e4e-4834-94d7-e56ce50b4709"
+            name="Usings" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance
+      Id="9b2e5074-b85f-48f8-84fe-d467c7f9d702"
+      name="TextTemplateBindings"
+      profile="TextTemplateBindings">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="62a735d1-eae2-4ecc-917a-02c054c81234">
+          <propertyInstance
+            Id="f0cbfbb9-4e02-48a5-9702-ff73b742a7e1"
+            name="Alias" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="d07eebbc-c785-4cbc-81d4-8b620aa3b865">
+          <propertyInstance
+            Id="fd878b7c-7add-4646-8e9b-7990c6ee11e5"
+            name="TemplateFilePath" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="f145d3f0-ceee-4a60-a354-2ca7ff5c35b7">
+          <propertyInstance
+            Id="63e084af-fb10-48bf-82e4-5c7622051f69"
+            name="ProjectPath" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="58c38ff3-5e94-4424-a74e-dc46f4c3336c">
+          <propertyInstance
+            Id="8307db98-49d0-4feb-a8f7-242cc1d130f5"
+            name="TargetDirectory" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="69508b52-b6f9-4dfc-b0fa-d238425a5c7c">
+          <propertyInstance
+            Id="e91023bf-d88a-4b37-b1db-15877ca3004b"
+            name="TargetName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="9bbc789f-4996-4b64-a95a-3401c3a1efc3">
+          <propertyInstance
+            Id="ebdcb69f-13e3-43ee-8c70-bfed0046830c"
+            name="Overwrite" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="6e2529a0-1694-4eeb-b838-2a066b1fd373">
+          <propertyInstance
+            Id="6e062852-0057-4852-a2dc-04e4f6314729"
+            name="Parameters" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="226ff631-0562-443d-98b2-77cd104e8dfc"
+        LastKnownName="TRF"
+        LastKnownLocation="Package1_1707.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

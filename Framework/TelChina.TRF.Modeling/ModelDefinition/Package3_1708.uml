@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="7abd7793-57a1-438e-b680-b8b5eb6c0c3f"
+  name="AOP"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="ab6af62c-3309-4101-b5a5-5e3bb17fe5ca"
+      handle="viewcode://./CodeSchema_Namespace?Namespace=TelChina.TRF.System.AOP"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="7bd7e0b1-f5dc-4bf9-9501-b86567b144ee"
+        name="AOPAttribute"
+        isAbstract="true"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="ff9ca970-8fc8-47f3-a775-c2da3a919869"
+            handle="viewcode://./CodeSchema_Class?Assembly=file:///D:/Persional/Dropbox/Code/Product/ApplicationServer/Bin/TelChina.TRF.System.dll Namespace=TelChina.TRF.System.AOP Type=AOPAttribute"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="4d47e0b4-07c1-42dc-9e86-6441c65aacbd"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="8e8f72a3-9d79-41ed-8a34-e62413b2ea93">
+                <propertyInstance
+                  Id="75fb2a50-8a6d-41f1-9250-7404d0dfd678"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0c1a80fe-599e-4581-8e09-74310e489e63">
+                <propertyInstance
+                  Id="b2934ae6-e927-4518-9cfd-5c7880e23179"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f57fe11f-6573-481a-a4aa-35aba7a574fd">
+                <propertyInstance
+                  Id="f49c7cec-d7cd-46e7-9724-1da0b3a71b13"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="79eecc89-b1b3-46e2-8f3e-a1617a5b2e00">
+                <propertyInstance
+                  Id="0507f7bb-d0a5-464c-a50a-49cc2f2aea8d"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="add3f5a2-f5d2-427f-98fa-f3e91c22d00d">
+                <propertyInstance
+                  Id="63dda980-01d1-41c1-ad70-7274ada92ceb"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

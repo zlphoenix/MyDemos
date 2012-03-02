@@ -1,0 +1,8 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Service.AppHostingConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\TelChina.TRF.Service.AppHostingConsole.exe.config
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\TelChina.TRF.Service.AppHostingConsole.exe
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\TelChina.TRF.Service.AppHostingConsole.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AppHostingConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AppHostingConsole\obj\x86\Debug\TelChina.TRF.Service.AppHostingConsole.exe
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AppHostingConsole\obj\x86\Debug\TelChina.TRF.Service.AppHostingConsole.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\app.config

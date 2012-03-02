@@ -1,0 +1,7 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\BusinessDemo\ServiceTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\ServiceTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Test.ServiceTest.dll.config
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Test.ServiceTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\Test\TelChina.TRF.Test.ServiceTest.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\ServiceTest\obj\Debug\TelChina.TRF.Test.ServiceTest.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\BusinessDemo\ServiceTest\obj\Debug\TelChina.TRF.Test.ServiceTest.pdb

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{552B2B76-5868-4CBB-BF70-F46D9DBEB85E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TelChina.TRF.Demo.DomainModel</RootNamespace>
+    <AssemblyName>TelChina.TRF.Demo.DomainModel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Product\ApplicationServer\Labs\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\EDMContext.cs" />
+    <Compile Include="DomainLogic\User.cs" />
+    <Compile Include="DomainLogic\Role.cs" />
+    <Compile Include="DomainLogic\Order.cs" />
+    <Compile Include="DomainLogic\SysParam.cs" />
+    <Compile Include="Model\DemoEDM.Views.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DemoEDM.Views.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DemoEDM1.Designer.cs">
+      <DependentUpon>DemoEDM.edmx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EntityState.tastate" />
+    <None Include="EntityState.tastate.diagram">
+      <DependentUpon>EntityState.tastate</DependentUpon>
+    </None>
+    <None Include="Model\DemoEDM.Views.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>DemoEDM.Views.cs</LastGenOutput>
+    </None>
+    <EntityDeploy Include="Model\DemoEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DemoEDM1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\TelChina.TRF.Persistant.Core\TelChina.TRF.Persistant.Core.csproj">
+      <Project>{C554142F-9DEC-4CD3-8430-90AB6D2285C2}</Project>
+      <Name>TelChina.TRF.Persistant.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Framework\TelChina.TRF.Service.ServiceBase\TelChina.TRF.System.csproj">
+      <Project>{72B7F5B6-7960-46CC-B55E-E7B28CC728F2}</Project>
+      <Name>TelChina.TRF.System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Framework\TelChina.TRF.Util.Common\TelChina.TRF.Util.Common.csproj">
+      <Project>{AE4A8992-12AC-46A8-B697-1F1FA83D53CB}</Project>
+      <Name>TelChina.TRF.Util.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model\DemoEDM.edmx.sql" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

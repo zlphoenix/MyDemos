@@ -1,0 +1,8 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\TelChina.TRF.Persistant.CoreLib.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\TelChina.TRF.Persistant.CoreLib.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Persistant.CoreLib.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Persistant.CoreLib.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\TelChina.TRF.Persistant.CoreLib.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Persistant.CoreLib\obj\Debug\TelChina.TRF.Persistant.CoreLib.pdb

@@ -1,0 +1,16 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.EntityTracer.resources
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.VisualizerForm.resources
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Products\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Debug.ObjectStateVisualizer.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Debug.ObjectStateVisualizer.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.EntityTracer.resources
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.VisualizerForm.resources
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Debug.ObjectStateVisualizer\obj\Debug\TelChina.TRF.Debug.ObjectStateVisualizer.pdb

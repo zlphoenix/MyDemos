@@ -1,0 +1,8 @@
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\ServiceExtention\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\ServiceExtention\obj\Debug\TelChina.TRF.Service.AOP.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\ServiceExtention\obj\Debug\TelChina.TRF.Service.AOP.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Service.AOP.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Bin\TelChina.TRF.Service.AOP.pdb
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AOP\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AOP\obj\Debug\TelChina.TRF.Service.AOP.dll
+D:\Work\Doc\Products\Research\早期的设计和资料\TelChina.TRF\Framework\TelChina.TRF.Service.AOP\obj\Debug\TelChina.TRF.Service.AOP.pdb

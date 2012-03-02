@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C554142F-9DEC-4CD3-8430-90AB6D2285C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TelChina.TRF.Persistant.Core</RootNamespace>
+    <AssemblyName>TelChina.TRF.Persistant.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Product\ApplicationServer\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extentions\EntityObjectExtensions.cs" />
+    <Compile Include="Extentions\IQueryableExtensions.cs" />
+    <Compile Include="Extentions\ObjectStateManagerExtensions.cs" />
+    <Compile Include="Implement\EDMRepositoryContext.cs" />
+    <Compile Include="Implement\Repository.cs" />
+    <Compile Include="Interface\IEntity.cs" />
+    <Compile Include="Interface\IRepositoryTransactionContext.cs" />
+    <Compile Include="Interface\IExtendedRepository.cs" />
+    <Compile Include="Interface\IRepository.cs" />
+    <Compile Include="Interface\IRepositoryContext.cs" />
+    <Compile Include="Resource\Messages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Specification\AndSpecification.cs" />
+    <Compile Include="Specification\CompositeSpecification.cs" />
+    <Compile Include="Specification\DirectSpecification.cs" />
+    <Compile Include="Specification\ExpressionBuilder.cs" />
+    <Compile Include="Specification\ISpecification.cs" />
+    <Compile Include="Specification\NotSpecification.cs" />
+    <Compile Include="Specification\OrSpecification.cs" />
+    <Compile Include="Specification\ParametersRebinder.cs" />
+    <Compile Include="Specification\Specification.cs" />
+    <Compile Include="Specification\TrueSpecification.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Description.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource\Messages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TelChina.TRF.Debug.ObjectStateVisualizer\TelChina.TRF.Debug.ObjectStateVisualizer.csproj">
+      <Project>{65323845-0191-453F-8A21-47106281A796}</Project>
+      <Name>TelChina.TRF.Debug.ObjectStateVisualizer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TelChina.TRF.Util.Common\TelChina.TRF.Util.Common.csproj">
+      <Project>{AE4A8992-12AC-46A8-B697-1F1FA83D53CB}</Project>
+      <Name>TelChina.TRF.Util.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy $(TargetPath) ..\..\..\Component\Platform\*.* /e/y</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

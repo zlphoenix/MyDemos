@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SVDemo">
+  <logicalClassDesignerModelMoniker Id="9c1a4475-8ae1-4821-b966-fd617b733897" />
+  <nestedChildShapes>
+    <packageShape Id="0cddc0b6-0eb6-4b7d-ba96-7cc4711babe7" absoluteBounds="0.875, 0.75, 1.75, 1.75" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="70a32be6-7fe8-4413-924b-b56af128640d" LastKnownName="SV" />
+      <nestedChildShapes>
+        <classShape Id="4b76d81e-5592-4381-8060-89b82cb9532b" absoluteBounds="1, 1.125, 1.5, 1.1863888690206741" hideQualifiedName="false" increaseHeight="0.18583333333333335" customColor="181, 193, 223">
+          <classMoniker Id="e7aee16a-342d-49cc-b29c-14264fc002d5" LastKnownName="DemoSV" />
+          <nestedChildShapes>
+            <AttributeElementListCompartment Id="861b7d03-505f-4609-a0f0-46b0e9b00983" absoluteBounds="1.015, 1.6388888888888888, 1.4700000000000002, 0.2011718675494194" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+            <OperationElementListCompartment Id="da7d1d37-68fb-4fab-8145-e3c8e4dc0da6" absoluteBounds="1.015, 1.8500607564383085, 1.4700000000000002, 0.36132811258236563" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+          </nestedChildShapes>
+        </classShape>
+      </nestedChildShapes>
+    </packageShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>

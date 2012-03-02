@@ -1,0 +1,7 @@
+D:\Doc\Dropbox\仑\DemoAssemblies\ServiceExtention.dll
+D:\Doc\Dropbox\仑\DemoAssemblies\ServiceExtention.pdb
+D:\Doc\Dropbox\仑\Code\CSharpFeatures\ServiceExtention\obj\Debug\ResolveAssemblyReference.cache
+D:\Doc\Dropbox\仑\Code\CSharpFeatures\ServiceExtention\obj\Debug\ServiceExtention.dll
+D:\Doc\Dropbox\仑\Code\CSharpFeatures\ServiceExtention\obj\Debug\ServiceExtention.pdb
+D:\DemoAssemblies\ServiceExtention.dll
+D:\DemoAssemblies\ServiceExtention.pdb
