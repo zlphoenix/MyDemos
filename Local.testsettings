@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <TestSettings name="Local" id="a7f838a2-1eab-4cee-b348-80b2108b3a76" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Description>These are default test settings for a local test run.</Description>
-  <Deployment userDeploymentRoot="D:\TestResult" useDefaultDeploymentRoot="false">
-    <DeploymentItem filename="D:\Work\Doc\Products\Research\早期的设计和资料\Product\ApplicationServer\Labs\" />
+  <Deployment userDeploymentRoot="R:\TestResult" useDefaultDeploymentRoot="false">
     <DeploymentItem filename="C:\Program Files (x86)\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <DeploymentItem filename="TP\Microsoft.Practices.Unity.Interception.dll" />
+    <DeploymentItem filename="TP\Microsoft.Practices.Unity.dll" />
+    <DeploymentItem filename="TP\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll" />
+    <DeploymentItem filename="TP\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <DeploymentItem filename="TP\Microsoft.Practices.ServiceLocation.dll" />
   </Deployment>
   <Execution>
     <TestTypeSpecific>

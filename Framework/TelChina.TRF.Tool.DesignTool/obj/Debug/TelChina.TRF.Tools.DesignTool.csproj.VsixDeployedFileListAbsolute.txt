@@ -1,2 +1,0 @@
-C:\Users\zhoulun\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\zhoulun\DesignTools\1.0\\extension.vsixmanifest
-C:\Users\zhoulun\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\zhoulun\DesignTools\1.0\\TRF.Service.Profile
