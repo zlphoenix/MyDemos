@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams"
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams"
   dslVersion="1.0.0.0"
   Id="cd20f47a-650d-4967-82d1-22061b1bd167"
   name="Modeling" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
@@ -109,12 +109,6 @@
       <profileInstance
         Id="5cd735d2-3b21-487f-adb1-5f12fdd15c71"
         name="TextTemplateBindings" />
-    </packageHasProfileInstances>
-    <packageHasProfileInstances
-      Id="3f29192e-6f71-48eb-9698-49b1200cd7db">
-      <profileInstance
-        Id="1785dfcb-df66-4ee5-8674-2f0710debd93"
-        name="TRFServiceModelProfile" />
     </packageHasProfileInstances>
   </profileInstances>
   <packagedElements>
@@ -282,6 +276,13 @@
                       name="Set"
                       value="none" />
                   </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="a1b39719-65e8-497b-9e2f-027422966be0">
+                    <propertyInstance
+                      Id="7ea8cada-b489-4883-b6f2-c1c7d383a839"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
               </stereotypeInstance>
             </appliedStereotypesInternal>
@@ -348,6 +349,13 @@
                     <propertyInstance
                       Id="412c85cc-be6b-4de8-afe3-8df5401c8044"
                       name="Set"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="e35a50a0-c18d-43a6-aaaf-e433dd861ffe">
+                    <propertyInstance
+                      Id="fef65358-3d2f-4fd2-a051-463828c5cd52"
+                      name="Inheritance"
                       value="none" />
                   </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
@@ -418,6 +426,13 @@
                       name="Set"
                       value="none" />
                   </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="59a365e9-e7cc-4592-a925-e6a0b5b5d8d5">
+                    <propertyInstance
+                      Id="5c32dad8-e2e0-434c-a01e-fb39ec6f52d6"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
               </stereotypeInstance>
             </appliedStereotypesInternal>
@@ -486,6 +501,13 @@
                       name="Set"
                       value="none" />
                   </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="2fd34243-0c7b-48d8-bd96-b516afbb1194">
+                    <propertyInstance
+                      Id="df8b7a01-98d1-489e-a398-11625d545961"
+                      name="Inheritance"
+                      value="none" />
+                  </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
               </stereotypeInstance>
             </appliedStereotypesInternal>
@@ -545,6 +567,13 @@
                       Id="29db83c2-c69f-405e-bb03-d6327cbf07df"
                       name="params"
                       value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="2d037b47-bf0a-46ab-93d2-f6e3289ca9bc">
+                    <propertyInstance
+                      Id="e598b163-f301-44e2-a2e9-a94755ffbf00"
+                      name="Inheritance"
+                      value="none" />
                   </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
               </stereotypeInstance>

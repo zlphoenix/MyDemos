@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams"
   dslVersion="1.0.0.0"
   Id="7d8d540e-52e2-4b9f-ae47-d0284e5eccd7"
   name="DemoModel" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
@@ -109,12 +109,6 @@
       <profileInstance
         Id="a72cfed4-7971-47fe-b457-86d196e2e6b0"
         name="TextTemplateBindings" />
-    </packageHasProfileInstances>
-    <packageHasProfileInstances
-      Id="da705668-68fe-4e5a-9125-7496abf67bb9">
-      <profileInstance
-        Id="90a94735-5bd5-4d36-b4e2-49ec7a052713"
-        name="TRFServiceModelProfile" />
     </packageHasProfileInstances>
   </profileInstances>
   <packagedElements>

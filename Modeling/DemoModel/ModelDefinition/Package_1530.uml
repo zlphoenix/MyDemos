@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams"
   dslVersion="1.0.0.0"
   Id="5cf43677-99c7-4e82-988b-f2a2edfb314a"
   name="SV" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
@@ -53,20 +53,6 @@
               </stereotypeInstanceHasPropertyInstances>
             </propertyInstances>
           </stereotypeInstance>
-          <stereotypeInstance
-            Id="11493cc3-dff6-4201-994d-94016b04da0f"
-            name="Service"
-            profile="TRFServiceModelProfile">
-            <propertyInstances>
-              <stereotypeInstanceHasPropertyInstances
-                Id="6d3ad21c-1534-4b47-9ed6-0f3efa68d581">
-                <propertyInstance
-                  Id="9261ec6b-35e4-40a0-97c6-756c8cc84d3b"
-                  name="TransactionType"
-                  value="Required" />
-              </stereotypeInstanceHasPropertyInstances>
-            </propertyInstances>
-          </stereotypeInstance>
         </appliedStereotypesInternal>
         <ownedOperationsInternal>
           <operation
@@ -116,6 +102,13 @@
                       Id="d0cf0483-3f3e-40c1-938c-21d93f2eb10c"
                       name="params"
                       value="false" />
+                  </stereotypeInstanceHasPropertyInstances>
+                  <stereotypeInstanceHasPropertyInstances
+                    Id="1bca4baa-cee6-4fe7-8af1-ec6290ebaa81">
+                    <propertyInstance
+                      Id="2fe36ac0-84bc-4c3f-b0a4-4215270ccc26"
+                      name="Inheritance"
+                      value="none" />
                   </stereotypeInstanceHasPropertyInstances>
                 </propertyInstances>
               </stereotypeInstance>
